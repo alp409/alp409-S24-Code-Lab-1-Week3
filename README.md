@@ -1,5 +1,7 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# A simple color game. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+Week 2 homework (make a game with singletons).  
+WASD controls player movement, SPACE changes the scene. 
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Move through three scenes with dots that change the color of the player.  
+Thanks to JD and Aman for their help when I got stuck.
